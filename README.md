@@ -6,7 +6,7 @@
 
 ```
 ConfiMed/
-├── annotation_guidelines/   # PDF guidelines for annotators
+├── annotation_tool_and_guidlines/   # PDF guidelines for annotators
 ├── final_corpus/            # The JSON dataset (FINAL_CORPUS_CONFIMED.json)
 ├── xlmr_code/               # Python scripts for XLM-R experiments
 │   ├── run_xlmr_english_v2.py
