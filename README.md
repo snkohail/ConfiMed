@@ -114,6 +114,7 @@ If you use the ConfiMed dataset, annotation guidelines, or code in your research
   booktitle={Proceedings of the IEEE International Symposium on Computer-Based Medical Systems (CBMS)},
   year={2026}
 }
----
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+📜 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
