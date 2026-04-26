@@ -103,5 +103,17 @@ Results are saved in `results_xlmr_[experiment_name]_v2/` directories.
 *   `final_results.json`: Contains the average metrics across all 5 folds.
 *   `results_fold_X.json`: Detailed metrics for each specific fold.
 
+## 📌 Citation
+
+If you use the ConfiMed dataset, annotation guidelines, or code in your research, please cite:
+
+```bibtex
+@inproceedings{kohail2026confimed,
+  title={ConfiMed: A Parallel English--Arabic Benchmark for Fine-Grained Confidentiality Classification in Healthcare Correspondence},
+  author={Kohail, Sarah and Albajali, Abdularahman and Alshehhi, Mohammed},
+  booktitle={Proceedings of the IEEE International Symposium on Computer-Based Medical Systems (CBMS)},
+  year={2026}
+}
+
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
