@@ -115,6 +115,6 @@ If you use the ConfiMed dataset, annotation guidelines, or code in your research
   year={2026}
 }
 
-📜 License
+## 📜 License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
