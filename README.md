@@ -113,7 +113,7 @@ If you use the ConfiMed dataset, annotation guidelines, or code in your research
   author={Kohail, Sarah and Albajali, Abdularahman and Alshehhi, Mohammed},
   booktitle={Proceedings of the IEEE International Symposium on Computer-Based Medical Systems (CBMS)},
   year={2026}
-}```
-
+}
+---
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
